@@ -1,29 +1,19 @@
-# 🌐 Language Translation Tool
+# 🚀 CodeAlpha Internship Tasks
 
-A simple and responsive Language Translation Tool built using HTML, CSS, JavaScript and Node.js.
+This repository serves as the official project submission directory for my engineering internship at CodeAlpha.
 
-## 📌 Features
+## 📂 Completed Projects Directory
 
-- 🌍 Translate text into multiple languages
-- ⚡ Fast and responsive interface
-- 🎨 Clean UI
-- 📱 Mobile-friendly design
+### 1. 🌐 Language Translation Tool
+- **Core Engineering:** Node.js, Express, JavaScript, REST API integration
+- **Project Folder:** [`📂 Language-Translation-Tool/`](./Language-Translation-Tool)
+- **Description:** A live utility that translates texts across languages using server-side asynchronous routing.
 
-## 🛠️ Technologies Used
+### 2. 🤖 Chatbot for FAQs
+- **Core Engineering:** Python, Flask, NLTK Pipeline, Scikit-Learn Cosine Similarity
+- **Project Folder:** [`📂 Chatbot-For-FAQs/`](./Chatbot-For-FAQs)
+- **Description:** An advanced support terminal matching user inquiries using custom string similarity matrices and tokenization filters.
 
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
-
-## 📂 Project Structure
-
-```text
-translator-project/
-│
-├── index.html
-├── style.css
-├── script.js
-├── package.json
-├── server.js
-└── README.md
+---
+## 👨‍💻 Intern Identity
+**Simran Kumari** GitHub Profile: [tiwarisimran090-sketch](https://github.com/tiwarisimran090-sketch)
