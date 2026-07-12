@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligent FAQ Support Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="status-indicator"></div>
+            <h1>SmartFAQ AI Engine</h1>
+            <p>NLP-Powered Support Core Subsystem</p>
+        </header>
+
+        <main class="chat-viewport" id="chatViewport">
+            <div class="message system-msg">
+                <div class="bubble">
+                    Hello! I am your AI Knowledge Support agent. Ask me anything regarding order tracking, refunds, credentials adjustments, or international shipping rules.
+                </div>
+            </div>
+        </main>
+
+        <footer class="input-panel">
+            <form id="chatForm" autocomplete="off">
+                <input type="text" id="userInput" placeholder="Ask a support question (e.g., 'How to return a package?')..." required>
+                <button type="submit" id="sendBtn">Send Message</button>
+            </form>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
